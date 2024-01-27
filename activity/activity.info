@@ -1,0 +1,10 @@
+[Activity]
+name = Omilia
+activity_version = 1
+bundle_id = 
+icon = omilialogo
+exec = sugar-activity3 activity.Activity
+license = MIT lICENSE
+summary = A platformer game to help people learn new languages
+repository = https://github.com/SohamKukreti/omilia-sugar-activity
+
