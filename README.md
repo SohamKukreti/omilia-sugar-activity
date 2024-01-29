@@ -12,9 +12,9 @@ Link to the youtube video demo : https://www.youtube.com/watch?v=9ukLw9uVfgc
 * [Contributors](#Contributors)
 ## General info
 This project is a part of the OSDC'23 Hackathon.
-**Problem Statement:
+**Problem Statement:**
 To promote learning languages (specially local indian languages) in a fun and interactive way.
-**How we plan to solve it:
+**How we plan to solve it:**
 Through Omilia, children will learn basic words of a certain language (as per the mode of the game) while also enjoying the game due to a colorful interface.
 ### Pictures:
 <img src="imagesForREADME/pic6.png" width="400" />
