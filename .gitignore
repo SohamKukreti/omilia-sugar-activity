@@ -2,3 +2,9 @@
 /.idea
 /venv
 /.venv
+/English/__pycache__
+/bangla/__pycache__
+/hindi/__pycache__
+/platformers/__pycache__
+.gitignore.swp
+
