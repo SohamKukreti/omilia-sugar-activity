@@ -1,7 +1,7 @@
 [Activity]
 name = Omilia
 activity_version = 1
-bundle_id = 
+bundle_id = org.sugarlabs.omilia
 icon = omilialogo
 exec = sugar-activity3 activity.Activity
 license = MIT lICENSE
